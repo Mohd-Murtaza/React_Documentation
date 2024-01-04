@@ -1,6 +1,5 @@
 ### 1. What is React?
 React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently update the user interface in response to changes in data. React follows a declarative approach to building UIs and is commonly used for building single-page applications.
-or ye code jo likha he uska kya kha likha h line no. 17 18 
 ### 2. Who made React?
 React was created by Jordan Walke, a software engineer at Facebook. It was first released as an open-source project by Facebook in 2013.
 
